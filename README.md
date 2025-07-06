@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Features
+## 🌟 Objectives
 
 - 📤 Upload satellite images
 - 🛰️ Detect ships using YOLOv8
