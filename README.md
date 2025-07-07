@@ -13,6 +13,7 @@ With the rising volume of maritime activity, there are increasing concerns relat
 *To Identify and count individuals onboard ships to assess possible overcrowding or unauthorized human presence.
 *Analyzing ship positions relative to predefined zones and flag instances of unauthorized entry or border crossing.
 
+
 ---
 
 
